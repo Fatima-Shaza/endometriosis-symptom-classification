@@ -1,6 +1,6 @@
 # endometriosis-symptom-classification
 <p align="center">
-  <img src="pipeline_structure.png" alt="Pipeline Structure" width="600">
+  <img src="pipeline_structure.jpg" alt="Pipeline Structure" width="700">
 </p>
 # Impact of Domain Ontology on Endometriosis Symptom Classification
 
